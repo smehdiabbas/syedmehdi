@@ -4,4 +4,4 @@ mountpoints:
   /:
     url: https://content.da.live/smehdiabbas/syedmehdi/
     type: markup
-    type: markup
+    
