@@ -1,4 +1,7 @@
 mountpoints:
   /:
-    url: https://content.da.live/aemsites/da-block-collection/
+    url: mountpoints:
+  /:
+    url: https://content.da.live/smehdiabbas/syedmehdi/
+    type: markup
     type: markup
